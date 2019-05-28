@@ -1,5 +1,5 @@
 # hello-world
-My First!
+My First! by Jaechang Shim!!!!
 
 # howtogit
 
