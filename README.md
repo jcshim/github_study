@@ -1,10 +1,7 @@
 # hello-world
 My First! by Jaechang Shim!!!!
 
-## How to use git
-Simple Git How to 
-
-My name is Jaechang, Table 만들기
+####My name is Jaechang, Table 만들기
 ======
 
 jcshim | jeshim | jbshim
@@ -19,6 +16,8 @@ jcshim | jeshim | jbshim
 
 ## Hi Jaechang
 * [깃허브(GitHub)로 취업하기](https://sujinlee.me/professional-github/)
+  * [Part1](https://dataitgirls2.github.io/tutorial/Tutorial_180803_GettingJobGithub.html
+  * [Part2](https://github.com/YoungestSalon/TIL/blob/master/20180803_SIOS.md)
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lines)
 * http://www.bloter.net/archives/243254
 * [13. Microsoft / vscode](https://www.devpools.kr/2018/06/20/Github-Trends-2018%EB%85%84-6%EC%9B%94-%EA%B9%83%ED%97%99-%ED%8A%B8%EB%A0%8C%EB%93%9C/)
