@@ -1,29 +1,23 @@
 # hello-world
 My First! by Jaechang Shim!!!!
 
-# howtogit
-
 ## How to use git
 Simple Git How to 
 
-My name is Jaechang
+My name is Jaechang, Table 만들기
 ======
-
 
 jcshim | jeshim | jbshim
 --- | --- | ---
 *Daddy* | `daughtor` | **son**
 1 | 2 | 3
 
-
 # References
 * [Git은 뭐고 Github은 뭔가요?](https://youtu.be/Bd35Ze7-dIw)
 * [가장 쉬운 Git 강좌 - (상) 혼자작업편](https://youtu.be/FXDjmsiv8fI)
 * https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lines
 
-
 ## Hi Jaechang
-
 * [깃허브(GitHub)로 취업하기](https://sujinlee.me/professional-github/)
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lines)
 * http://www.bloter.net/archives/243254
