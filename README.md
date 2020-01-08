@@ -13,8 +13,8 @@ jcshim | jeshim | jbshim
 1 | 2 | 3
 
 # References
-* [Git은 뭐고 Github은 뭔가요?](https://youtu.be/Bd35Ze7-dIw)
-* [가장 쉬운 Git 강좌 - (상) 혼자작업편](https://youtu.be/FXDjmsiv8fI)
+* [{얇팍한 코딩사전}Git은 뭐고 Github은 뭔가요?](https://youtu.be/Bd35Ze7-dIw)
+* [{얇팍한 코딩사전}가장 쉬운 Git 강좌 - (상) 혼자작업편](https://youtu.be/FXDjmsiv8fI)
 * https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lines
 
 ## Hi Jaechang
